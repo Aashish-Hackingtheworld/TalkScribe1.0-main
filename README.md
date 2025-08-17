@@ -51,8 +51,8 @@ https://68a0b9dc8a6e19294a99cc16--talkscrib.netlify.app/
 
 
 📹 Demo Video  
-A demo video (<5 minutes) should be added here:
-[Insert link to demo video]
+A demo video should be added here:
+(https://buffalo.box.com/s/247nyybmffcy4ho1wkyjidcbuo79wxk1)
 
 
 The demo should cover:
