@@ -1,5 +1,5 @@
 TalkScribe 1.0
-TalkScribe1.0 is a modern web application that enables users to record speech, transcribe it into text, and manage transcripts with ease. It offers both real-time transcription and record-then-transcribe options, as well as translation support. The application is built with React (Next.js + TypeScript) for the frontend and integrates an automatic speech recognition (ASR) model on the backend. User authentication and transcript storage are managed with a lightweight database.
+is a modern web application that enables users to record speech, transcribe it into text, and manage transcripts with ease. It offers both real-time transcription and record-then-transcribe options, as well as translation support. The application is built with React (Next.js + TypeScript) for the frontend and integrates an automatic speech recognition (ASR) model on the backend. User authentication and transcript storage are managed with a lightweight database.
 
 ✨ Features
 User Authentication – Sign up and log in with username, email, and password.
